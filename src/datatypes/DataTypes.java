@@ -11,7 +11,7 @@ public class DataTypes {
 		
 		
 		char ch= 'A';
-		int ValCh= (int)'A';
+		int ValCh= (int)'A'; // cascading character with Assci value
 		System.out.println("Ascci value of A=" + ValCh);
 		
 	}
